@@ -1,0 +1,9 @@
+C:\Users\JorgeBrazdaSilva\source\repos\NeohAutorizador\NeohAutorizador.ApplicationCore\bin\Debug\netcoreapp2.2\NeohAutorizador.ApplicationCore.deps.json
+C:\Users\JorgeBrazdaSilva\source\repos\NeohAutorizador\NeohAutorizador.ApplicationCore\bin\Debug\netcoreapp2.2\NeohAutorizador.ApplicationCore.dll
+C:\Users\JorgeBrazdaSilva\source\repos\NeohAutorizador\NeohAutorizador.ApplicationCore\bin\Debug\netcoreapp2.2\NeohAutorizador.ApplicationCore.pdb
+C:\Users\JorgeBrazdaSilva\source\repos\NeohAutorizador\NeohAutorizador.ApplicationCore\obj\Debug\netcoreapp2.2\NeohAutorizador.ApplicationCore.csprojAssemblyReference.cache
+C:\Users\JorgeBrazdaSilva\source\repos\NeohAutorizador\NeohAutorizador.ApplicationCore\obj\Debug\netcoreapp2.2\NeohAutorizador.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\JorgeBrazdaSilva\source\repos\NeohAutorizador\NeohAutorizador.ApplicationCore\obj\Debug\netcoreapp2.2\NeohAutorizador.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\JorgeBrazdaSilva\source\repos\NeohAutorizador\NeohAutorizador.ApplicationCore\obj\Debug\netcoreapp2.2\NeohAutorizador.ApplicationCore.AssemblyInfo.cs
+C:\Users\JorgeBrazdaSilva\source\repos\NeohAutorizador\NeohAutorizador.ApplicationCore\obj\Debug\netcoreapp2.2\NeohAutorizador.ApplicationCore.dll
+C:\Users\JorgeBrazdaSilva\source\repos\NeohAutorizador\NeohAutorizador.ApplicationCore\obj\Debug\netcoreapp2.2\NeohAutorizador.ApplicationCore.pdb

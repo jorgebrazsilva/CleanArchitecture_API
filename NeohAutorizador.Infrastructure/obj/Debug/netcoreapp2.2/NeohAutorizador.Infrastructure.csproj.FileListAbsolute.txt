@@ -1,0 +1,14 @@
+C:\Users\JorgeBrazdaSilva\source\repos\NeohAutorizador\NeohAutorizador.Infrastructure\bin\Debug\netcoreapp2.2\NeohAutorizador.Infrastructure.deps.json
+C:\Users\JorgeBrazdaSilva\source\repos\NeohAutorizador\NeohAutorizador.Infrastructure\bin\Debug\netcoreapp2.2\NeohAutorizador.Infrastructure.dll
+C:\Users\JorgeBrazdaSilva\source\repos\NeohAutorizador\NeohAutorizador.Infrastructure\obj\Debug\netcoreapp2.2\NeohAutorizador.Infrastructure.csprojAssemblyReference.cache
+C:\Users\JorgeBrazdaSilva\source\repos\NeohAutorizador\NeohAutorizador.Infrastructure\obj\Debug\netcoreapp2.2\NeohAutorizador.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\JorgeBrazdaSilva\source\repos\NeohAutorizador\NeohAutorizador.Infrastructure\obj\Debug\netcoreapp2.2\NeohAutorizador.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\JorgeBrazdaSilva\source\repos\NeohAutorizador\NeohAutorizador.Infrastructure\obj\Debug\netcoreapp2.2\NeohAutorizador.Infrastructure.AssemblyInfo.cs
+C:\Users\JorgeBrazdaSilva\source\repos\NeohAutorizador\NeohAutorizador.Infrastructure\bin\Debug\netcoreapp2.2\NeohAutorizador.Infrastructure.pdb
+C:\Users\JorgeBrazdaSilva\source\repos\NeohAutorizador\NeohAutorizador.Infrastructure\bin\Debug\netcoreapp2.2\NeohAutorizador.ApplicationCore.dll
+C:\Users\JorgeBrazdaSilva\source\repos\NeohAutorizador\NeohAutorizador.Infrastructure\bin\Debug\netcoreapp2.2\NeohAutorizador.ApplicationCore.pdb
+C:\Users\JorgeBrazdaSilva\source\repos\NeohAutorizador\NeohAutorizador.Infrastructure\obj\Debug\netcoreapp2.2\NeohAutorizador.Infrastructure.csproj.CopyComplete
+C:\Users\JorgeBrazdaSilva\source\repos\NeohAutorizador\NeohAutorizador.Infrastructure\obj\Debug\netcoreapp2.2\NeohAutorizador.Infrastructure.dll
+C:\Users\JorgeBrazdaSilva\source\repos\NeohAutorizador\NeohAutorizador.Infrastructure\obj\Debug\netcoreapp2.2\NeohAutorizador.Infrastructure.pdb
+C:\Users\JorgeBrazdaSilva\source\repos\NeohAutorizador\NeohAutorizador.Infrastructure\bin\Debug\netcoreapp2.2\NeohAutorizador.Infrastructure.runtimeconfig.json
+C:\Users\JorgeBrazdaSilva\source\repos\NeohAutorizador\NeohAutorizador.Infrastructure\bin\Debug\netcoreapp2.2\NeohAutorizador.Infrastructure.runtimeconfig.dev.json
